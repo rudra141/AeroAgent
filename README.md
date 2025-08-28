@@ -33,13 +33,7 @@ Optimize airport resource usage
 Showcase agentic AI behavior in aviation systems
 
 Provide a scalable and modular framework for AI-driven airport automation
-## Video Demo
 
- > https://github.com/user-attachments/assets/c1918cf6-960a-419b-8cb7-4635afb2e260
-
-## 💻 Demo / Visualization
-
-> <img width="1470" height="861" alt="Image" src="https://github.com/user-attachments/assets/8220ba3a-8d4c-4588-b6c2-8fee7fa17b80" />
 ## 🧩 Agentic AI Workflow
 Agent	Responsibility
 FlightAgent	Requests takeoff/landing, adapts flight paths dynamically
