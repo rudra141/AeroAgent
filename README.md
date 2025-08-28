@@ -55,7 +55,7 @@ Dashboard Screenshot
 
 ## Video Demo
 
- <!-- Replace with actual video link -->
+ > https://github.com/user-attachments/assets/c1918cf6-960a-419b-8cb7-4635afb2e260
 
 ## 📈 Results / Metrics
 
