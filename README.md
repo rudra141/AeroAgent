@@ -55,7 +55,7 @@ Metrics collection: Flight delays, resource utilization, number of autonomous de
 
 ## 💻 Demo / Visualization
 
-> https://github.com/rudra141/AeroAgent/issues/2#issue-3363220315
+> <img width="1470" height="861" alt="Image" src="https://github.com/user-attachments/assets/8220ba3a-8d4c-4588-b6c2-8fee7fa17b80" />
 
 ## 📈 Results / Metrics
 
