@@ -48,14 +48,14 @@ Visualization: Interactive dashboard showing flights, gates, runways, and alerts
 
 Metrics collection: Flight delays, resource utilization, number of autonomous decisions
 
-## 💻 Demo / Visualization
-Dashboard Screenshot
-
-<!-- Replace with your screenshot -->
 
 ## Video Demo
 
  > https://github.com/user-attachments/assets/c1918cf6-960a-419b-8cb7-4635afb2e260
+
+## 💻 Demo / Visualization
+
+> https://github.com/rudra141/AeroAgent/issues/2#issue-3363220315
 
 ## 📈 Results / Metrics
 
