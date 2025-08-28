@@ -70,21 +70,21 @@ Number of autonomous agent decisions: N
 (Replace X, Y, Z, N with your actual project results)
 
 ## ⚡ Quick Start
-# Clone the repo
+#### Clone the repo
 git clone https://github.com/your-username/airport-agentic-ai.git
 cd airport-agentic-ai
 
-# Create virtual environment
+#### Create virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
 
-# Install dependencies
+#### Install dependencies
 pip install -r requirements.txt
 
-# Run simulation example
+#### Run simulation example
 python -m aiops.cli run --flights 30 --runways 2 --gates 10
 
-# Run dashboard
+#### Run dashboard
 streamlit run aiops/ui/app.py
 
 ## 📁 Project Structure
